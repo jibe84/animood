@@ -3,6 +3,7 @@
     <head>
         <title>@yield('title')</title>
 
+        <link rel="stylesheet" href="{{ URL::asset('css/app.css') }}" />
         @yield('styles')
     </head>
     <body>

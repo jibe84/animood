@@ -10,5 +10,5 @@
 
 @section('content')
     <p>This is my body content.</p>
-    <button>A</button>
+    <button type="submit" class="btn btn-default">Submit</button>
 @endsection
